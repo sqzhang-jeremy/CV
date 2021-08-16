@@ -10,7 +10,7 @@ Clinical Background
 
 ### 1.PFO Disease
 
-​                             <img src="docs/imgs/Fig1_PFO.png" width=35% height=35%" /><img src="docs/imgs/Fig2_clinical ultrasound PFO demo.png" width=50% height=50%" />
+​                             <img src="docs/imgs/Fig1_PFO.png" width=35% height=35%><img src="docs/imgs/Fig2_clinical ultrasound PFO demo.png" width=50% height=50%>
 
 ​																					Fig1 and Fig2
 
